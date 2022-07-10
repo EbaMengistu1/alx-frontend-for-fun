@@ -1,5 +1,5 @@
 # Flexbox
-```HTML`` ```CSS``` ```Front-end```
+```HTML``` ```CSS``` ```Front-end```
 
 # Resources
 
