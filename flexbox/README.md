@@ -1,6 +1,5 @@
 ```article```
 <p>
-<textarea readonly rows="21" cols="81"
 "<!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
@@ -131,5 +130,4 @@
     </footer>
   </body>
 </html> "
-</textarea>
 </p>
