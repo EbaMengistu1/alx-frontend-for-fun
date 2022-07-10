@@ -86,9 +86,6 @@ if __name__ == "__main__":
         for i in range(len(lines)):
             line = validate_bold(lines[i])
 
-            if line == "\n" and lines[i - 1] == "\n"\
-                    or line == "\n" and lines[i + 1] == "\n":
-                continue
             if line.startswith("#"):
                 for title in html_titles:
                     if line.startswith(title):
